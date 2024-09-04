@@ -26,6 +26,10 @@
 
 - **Node.js**: Ensure Node.js is installed on your system. You can download it from [Node.js](https://nodejs.org/).
 
+## Issues
+
+If you encounter any issues or have any questions, please post them on [GitHub Issues page](https://github.com/Zeltales/Valorant-RPC/issues). 
+
 ---
 
 **Note:** This application is built with a React-based web interface and Tauri.
