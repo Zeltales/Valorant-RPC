@@ -3,7 +3,7 @@
 [![Rust](https://img.shields.io/badge/Rust-🦀-black?style=flat&logo=rust)](https://www.rust-lang.org/)
 [![React](https://img.shields.io/badge/React-⚛️-blue?style=flat&logo=react)](https://reactjs.org/)
 [![Tauri](https://img.shields.io/badge/Tauri-🚀-yellow?style=flat&logo=tauri)](https://tauri.app/)
-[![Release](https://img.shields.io/badge/Release-v1.0.0-green?style=flat)](https://github.com/Zeltales/Valorant-RPC/releases/latest/)
+[![Release](https://img.shields.io/github/v/release/Zeltales/Valorant-RPC?style=flat&color=green)](https://github.com/Zeltales/Valorant-RPC/releases/latest/)
 [![Valorant](https://img.shields.io/badge/Valorant-🎮-red?style=flat&logo=valorant)](https://playvalorant.com)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="17" height="17" /> Keep your Discord status cool with real-time updates of your Valorant game activity.
