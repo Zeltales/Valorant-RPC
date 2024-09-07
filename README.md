@@ -5,6 +5,7 @@
 [![Tauri](https://img.shields.io/badge/Tauri-🚀-yellow?style=flat&logo=tauri)](https://tauri.app/)
 [![Release](https://img.shields.io/github/v/release/Zeltales/Valorant-RPC?style=flat&color=green)](https://github.com/Zeltales/Valorant-RPC/releases/latest/)
 [![Valorant](https://img.shields.io/badge/Valorant-🎮-red?style=flat&logo=valorant)](https://playvalorant.com)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Zeltales/Valorant-RPC/blob/main/LICENCE.md)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="17" height="17" /> Keep your Discord status cool with real-time updates of your Valorant game activity.
 
@@ -34,4 +35,6 @@ If you encounter any issues or have any questions, please post them on [GitHub I
 
 **Note:** This application is built with a React-based web interface and Tauri.
 
-<img src="https://i.zeltales.dev/KiCj77yQ.png" alt="Valorant RPC Discord" width="300"/>
+![Zob](https://i.zeltales.dev/LX7BpwK2.png)
+![Zob](https://i.zeltales.dev/bO8UfKby.png)
+![Zob](https://i.zeltales.dev/0rbcT9kO.png)
