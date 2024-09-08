@@ -26,6 +26,7 @@
 ## 🛠️ Prerequisites
 
 - **Node.js**: Ensure Node.js is installed on your system. You can download it from [Node.js](https://nodejs.org/).
+- **WebView2**: This application requires WebView2 to run properly. You can download and install WebView2 from [Microsoft Webview2](https://go.microsoft.com/fwlink/p/?LinkId=2124703).
 
 ## Issues
 
