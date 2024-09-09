@@ -25,12 +25,11 @@
 
 ## 🛠️ Prerequisites
 
-- **Node.js**: Ensure Node.js is installed on your system. You can download it from [Node.js](https://nodejs.org/).
-- **WebView2**: This application requires WebView2 to run properly. You can download and install WebView2 from [Microsoft Webview2](https://go.microsoft.com/fwlink/p/?LinkId=2124703).
+- **Node.js**: Will be installed automatically if it's not already present. You can also download it from [Node.js](https://nodejs.org/).
 
 ## Issues
 
-If you encounter any issues or have any questions, please post them on [GitHub Issues page](https://github.com/Zeltales/Valorant-RPC/issues). 
+If you encounter any issues or have any questions, please post them on the [GitHub Issues page](https://github.com/Zeltales/Valorant-RPC/issues). 
 
 ---
 
