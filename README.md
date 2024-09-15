@@ -19,9 +19,16 @@
 
 ## 🚀 Installation
 
-1. **Download** the latest version from the [Releases](https://github.com/Zeltales/Valorant-RPC/releases/latest/).
-2. **Extract** the contents of the downloaded ZIP file.
-3. **Launch** the application by double-clicking on **`ValorantRPC.exe`**.
+### Using the MSI Installer
+1. **Download** the latest version from the [Releases page](https://github.com/Zeltales/Valorant-RPC/releases/latest/).
+2. **Double-click** (**`Valorant.RPC_x64_en-US.msi`**).
+3. **Follow** the on-screen instructions.
+
+### Using the ZIP Archive
+1. **Download** the latest version from the [Releases page](https://github.com/Zeltales/Valorant-RPC/releases/latest/).
+2. **Extract** the ZIP folder (**`Valorant.RPC.zip`**).
+3. **Double-click** **`ValorantRPC.exe`**.
+
 
 ## 🛠️ Prerequisites
 
